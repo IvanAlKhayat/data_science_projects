@@ -1,4 +1,4 @@
-# Deep Learning Exam Project – Review Classification
+# Deep Learning Exam Project – Amusement Park Reviews Classification
 
 **Topic:** Text classification using neural networks  
 
